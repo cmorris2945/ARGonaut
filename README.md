@@ -6,6 +6,27 @@ Overview:
 The ARGonaut pipeline is a comprehensive computational framework designed for studying antimicrobial resistance (AMR) in environmental samples, particularly from wastewater. The pipeline integrates multiple cutting-edge bioinformatics tools and databases to analyze both DNA and RNA sequences, providing insights into the presence, abundance, and dissemination mechanisms of antimicrobial resistance genes (ARGs). In addition, the pipeline is equipped to handle both short-read (Illumina) and long-read (Nanopore) sequencing technologies, making it versatile and well-suited for various types of sequence data.
 
 
+
+![image](https://github.com/user-attachments/assets/dc29bb9d-1517-455a-b44a-8d0ad676ebb9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/cmorris2945/ARGonaut/assets/30676606/52a2c5a4-c1da-4cd4-8fe9-bd5645c12c41)
 
 
